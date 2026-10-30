@@ -1,7 +1,7 @@
 # 📦 COD Return-to-Origin (RTO) Predictor & Instant UPI Pre-Pay Engine
 
 > **Interactive Frontend Prototype tackling Razorpay Fix-My-Itch Problem Statement #4**  
-> *Engineered by [Abhay Vinod](https://github.com/abhayvinod)*
+> *Engineered by [Abhay Vinod](https://github.com/abhayvinod-web)*
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
 ![React 19](https://img.shields.io/badge/React-19-blue?logo=react)
